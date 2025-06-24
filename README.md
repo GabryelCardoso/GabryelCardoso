@@ -20,44 +20,44 @@ Me chamo Gabryel Cardoso, tenho 22 anos e atualmente trabalho como desenvolvedor
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=GabryelCardoso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<p align="center" style="margin-bottom: 20px;">
+  <img height="200" style="margin-right: 15px;" src="https://github-readme-stats.vercel.app/api?username=GabryelCardoso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelCardoso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
 ### 🎓 Certificados
 
-<details>
-<summary>Ver todos os certificados</summary>
+<div align="center">
 
 <table>
-<thead>
-<tr>
-<th>Título</th>
-<th>Instituição</th>
-<th>Emissão</th>
-<th>Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Certificado de Desenvolvimento Web</td>
-<td>Udemy</td>
-<td>Jul/2024</td>
-<td><a href="https://www.udemy.com/certificate/UC-ea0c0a5a-1bf1-460f-82fb-48cc712d873c/">Ver</a></td>
-</tr>
-<tr>
-<td>AWS Certified Cloud Practitioner</td>
-<td>AWS</td>
-<td>Out/2024</td>
-<td><a href="https://www.credly.com/badges/f8da2562-0fa7-41f2-9848-2ac2ce62b803/public_url">Ver</a></td>
-</tr>
-<tr>
-<td>AWS re/Start Graduate</td>
-<td>AWS</td>
-<td>Nov/2024</td>
-<td><a href="https://www.credly.com/badges/4825846e-cff1-4146-905d-d099d5f44f45/public_url">Ver</a></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Título</th>
+      <th>Instituição</th>
+      <th>Emissão</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Certificado de Desenvolvimento Web</td>
+      <td>Udemy</td>
+      <td>Jul/2024</td>
+      <td><a href="https://www.udemy.com/certificate/UC-ea0c0a5a-1bf1-460f-82fb-48cc712d873c/">Ver</a></td>
+    </tr>
+    <tr>
+      <td>AWS Certified Cloud Practitioner</td>
+      <td>AWS</td>
+      <td>Out/2024</td>
+      <td><a href="https://www.credly.com/badges/f8da2562-0fa7-41f2-9848-2ac2ce62b803/public_url">Ver</a></td>
+    </tr>
+    <tr>
+      <td>AWS re/Start Graduate</td>
+      <td>AWS</td>
+      <td>Nov/2024</td>
+      <td><a href="https://www.credly.com/badges/4825846e-cff1-4146-905d-d099d5f44f45/public_url">Ver</a></td>
+    </tr>
+  </tbody>
 </table>
-</details>
+
+</div>
