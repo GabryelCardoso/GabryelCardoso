@@ -21,7 +21,7 @@ Me chamo Gabryel Cardoso, tenho 22 anos e atualmente trabalho como desenvolvedor
 ### 📊 Estatísticas
 
 <p align="center" style="margin-bottom: 20px;">
-<!--   <img height="200" style="margin-right: 15px;" src="https://github-readme-stats.vercel.app/api?username=GabryelCardoso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> -->
+ <img height="200" style="margin-right: 15px;" src="https://github-readme-stats.vercel.app/api?username=GabryelCardoso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelCardoso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
