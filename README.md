@@ -61,7 +61,7 @@ Me chamo Gabryel Cardoso, tenho 22 anos e atualmente trabalho como desenvolvedor
       <td>AWS Certified Developer Associate</td>
       <td>AWS</td>
       <td>Out/2025</td>
-      <td><a href="https://www.credly.com/badges/4825846e-cff1-4146-905d-d099d5f44f45/public_url](https://www.credly.com/badges/86e549e9-1cd7-4e47-bd95-c23eb763b62c/public_url">Ver</a></td>
+      <td><a href="https://www.credly.com/badges/86e549e9-1cd7-4e47-bd95-c23eb763b62c/public_url">Ver</a></td>
     </tr>
   </tbody>
 </table>
