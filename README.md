@@ -2,7 +2,7 @@
 
 **Desenvolvedor FullStack**
 
-Me chamo Gabryel Cardoso, tenho 22 anos e atualmente trabalho como desenvolvedor fullstack. Tenho experiência em desenvolvimento web e possuo uma certificação AWS Cloud Practitioner. Ultimamente venho me especializando na área de computação em nuvem e Visão Computacional.
+Me chamo Gabryel Cardoso, tenho 22 anos e atualmente trabalho como desenvolvedor fullstack há 1 ano. Tenho experiência em desenvolvimento web e possuo duas certificações AWS.
 
 ### 🤖 Linguagens e Tecnologias
 
