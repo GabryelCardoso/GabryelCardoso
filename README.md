@@ -7,6 +7,7 @@ Me chamo Gabryel Cardoso, tenho 22 anos e atualmente trabalho como desenvolvedor
 ### 🤖 Linguagens e Tecnologias
 
 <p align="center">
+  <img title="Golang" alt="Golang" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
   <img title="JavaScript" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img title="TypeScript" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
